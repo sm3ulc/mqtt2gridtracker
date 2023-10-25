@@ -25,8 +25,8 @@ import wsjtmess
 # {"sq":38536561290,"f":14081487,"md":"FT4","rp":-3,"t":1691146394,"sc":"R3XBD","sl":"KO74xb","rc":"G8IXM","rl":"JO02pp29","sa":54,"ra":223,"b":"20m"}
 # https://sourceforge.net/p/wsjt/wsjtx/ci/wsjtx-2.5.2/tree/Network/NetworkMessage.hpp
 
-mycall = "SM0ULC"
-myloc = "JO89"
+mycall = "MYCALL"
+myloc = "XXYY"
 showrec = True
 showmyrec = True
 

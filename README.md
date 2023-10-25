@@ -1,20 +1,32 @@
 # mqtt2gridtracker
 
-sdfsdf
+## Installation
 
-
-# wspr-scripts
-
-These are scripts for running wspr on rtl-dongles and SDRPlay.
-
-# Installation
-
-## Install paho-mqtt
+### Install paho-mqtt
 
 	pip install paho-mqtt
 
 
-## Replace MYCALL, ip-address & port
+### Replace MYCALL, ip-address & port
+
+    mycall = "MYCALL"
+    myloc = "XXYY"
+    host = "192.168.1.300"
+    port = 2237
+
+
+### Control 
+
+Show received by other calls 
+
+     showrec = True
+
+Show received by you call
+
+     showmyrec = True
+
+
+pip install paho-mqtt
 
 
 
