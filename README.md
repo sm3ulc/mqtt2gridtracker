@@ -1,5 +1,7 @@
 # mqtt2gridtracker
 
+A small script that pulls reports from http://mqtt.pskreporter.info/, subscribes to spots to/from your call, prints them on the console and finally send them to an instance of Gridtracker (https://gridtracker.org/).
+
 ## Installation
 
 ### Install paho-mqtt
@@ -25,9 +27,9 @@ Show received by you call
 
      showmyrec = True
 
+### Run and hopefully enjoy!
 
-pip install paho-mqtt
-
+    python3 ./mqtt2gridtracker.py
 
 
 ## Licence
