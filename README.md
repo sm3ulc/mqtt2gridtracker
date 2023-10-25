@@ -15,6 +15,8 @@ Screenshot from Gridtracker
 
 ### Replace MYCALL, ip-address & port
 
+Edit mqtt2gridtracker.py
+
     mycall = "MYCALL"
     myloc = "XXYY"
     host = "192.168.1.300"
